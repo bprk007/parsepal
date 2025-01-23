@@ -1,0 +1,257 @@
+{
+  "build": "py312hca03da5_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "/Users/bprk/anaconda3/pkgs/python-json-logger-3.2.1-py312hca03da5_0",
+  "files": [
+    "lib/python3.12/site-packages/python_json_logger-3.2.1.dist-info/INSTALLER",
+    "lib/python3.12/site-packages/python_json_logger-3.2.1.dist-info/LICENSE",
+    "lib/python3.12/site-packages/python_json_logger-3.2.1.dist-info/METADATA",
+    "lib/python3.12/site-packages/python_json_logger-3.2.1.dist-info/NOTICE",
+    "lib/python3.12/site-packages/python_json_logger-3.2.1.dist-info/RECORD",
+    "lib/python3.12/site-packages/python_json_logger-3.2.1.dist-info/REQUESTED",
+    "lib/python3.12/site-packages/python_json_logger-3.2.1.dist-info/WHEEL",
+    "lib/python3.12/site-packages/python_json_logger-3.2.1.dist-info/direct_url.json",
+    "lib/python3.12/site-packages/python_json_logger-3.2.1.dist-info/top_level.txt",
+    "lib/python3.12/site-packages/pythonjsonlogger/__init__.py",
+    "lib/python3.12/site-packages/pythonjsonlogger/__pycache__/__init__.cpython-312.pyc",
+    "lib/python3.12/site-packages/pythonjsonlogger/__pycache__/core.cpython-312.pyc",
+    "lib/python3.12/site-packages/pythonjsonlogger/__pycache__/defaults.cpython-312.pyc",
+    "lib/python3.12/site-packages/pythonjsonlogger/__pycache__/exception.cpython-312.pyc",
+    "lib/python3.12/site-packages/pythonjsonlogger/__pycache__/json.cpython-312.pyc",
+    "lib/python3.12/site-packages/pythonjsonlogger/__pycache__/jsonlogger.cpython-312.pyc",
+    "lib/python3.12/site-packages/pythonjsonlogger/__pycache__/msgspec.cpython-312.pyc",
+    "lib/python3.12/site-packages/pythonjsonlogger/__pycache__/orjson.cpython-312.pyc",
+    "lib/python3.12/site-packages/pythonjsonlogger/__pycache__/utils.cpython-312.pyc",
+    "lib/python3.12/site-packages/pythonjsonlogger/core.py",
+    "lib/python3.12/site-packages/pythonjsonlogger/defaults.py",
+    "lib/python3.12/site-packages/pythonjsonlogger/exception.py",
+    "lib/python3.12/site-packages/pythonjsonlogger/json.py",
+    "lib/python3.12/site-packages/pythonjsonlogger/jsonlogger.py",
+    "lib/python3.12/site-packages/pythonjsonlogger/msgspec.py",
+    "lib/python3.12/site-packages/pythonjsonlogger/orjson.py",
+    "lib/python3.12/site-packages/pythonjsonlogger/py.typed",
+    "lib/python3.12/site-packages/pythonjsonlogger/utils.py"
+  ],
+  "fn": "python-json-logger-3.2.1-py312hca03da5_0.conda",
+  "license": "BSD-2-Clause",
+  "link": {
+    "source": "/Users/bprk/anaconda3/pkgs/python-json-logger-3.2.1-py312hca03da5_0",
+    "type": 1
+  },
+  "md5": "8c448081e1f8ce17d8576cd9cb94e57c",
+  "name": "python-json-logger",
+  "package_tarball_full_path": "/Users/bprk/anaconda3/pkgs/python-json-logger-3.2.1-py312hca03da5_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.12/site-packages/python_json_logger-3.2.1.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.12/site-packages/python_json_logger-3.2.1.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "18ea95179e3a5e0e24eb6ce16c40fbfbe23133c2502933a2f75f8a3e1a055b54",
+        "sha256_in_prefix": "18ea95179e3a5e0e24eb6ce16c40fbfbe23133c2502933a2f75f8a3e1a055b54",
+        "size_in_bytes": 1329
+      },
+      {
+        "_path": "lib/python3.12/site-packages/python_json_logger-3.2.1.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "acef44d40b43d7c8252aea8735d17be68574c0326facbaff1f23d51f5e739289",
+        "sha256_in_prefix": "acef44d40b43d7c8252aea8735d17be68574c0326facbaff1f23d51f5e739289",
+        "size_in_bytes": 4117
+      },
+      {
+        "_path": "lib/python3.12/site-packages/python_json_logger-3.2.1.dist-info/NOTICE",
+        "path_type": "hardlink",
+        "sha256": "b9142715c1990b0b88051d8020756f84a8bdc352a4888fef032ada95fc42b24e",
+        "sha256_in_prefix": "b9142715c1990b0b88051d8020756f84a8bdc352a4888fef032ada95fc42b24e",
+        "size_in_bytes": 209
+      },
+      {
+        "_path": "lib/python3.12/site-packages/python_json_logger-3.2.1.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "ef0ff00f427d788573131f094925adc94752e939330668c94f383e97f1aab856",
+        "sha256_in_prefix": "ef0ff00f427d788573131f094925adc94752e939330668c94f383e97f1aab856",
+        "size_in_bytes": 2193
+      },
+      {
+        "_path": "lib/python3.12/site-packages/python_json_logger-3.2.1.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.12/site-packages/python_json_logger-3.2.1.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "195f5a3138703ffe28342b6f102d9e737a9462eb6059e033925ae8ff49b85894",
+        "sha256_in_prefix": "195f5a3138703ffe28342b6f102d9e737a9462eb6059e033925ae8ff49b85894",
+        "size_in_bytes": 91
+      },
+      {
+        "_path": "lib/python3.12/site-packages/python_json_logger-3.2.1.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "53f2f80912cca07ee67a29fbcb65321ec3ae3c2d9ccfb9b4cce9d37f165fd7de",
+        "sha256_in_prefix": "53f2f80912cca07ee67a29fbcb65321ec3ae3c2d9ccfb9b4cce9d37f165fd7de",
+        "size_in_bytes": 149
+      },
+      {
+        "_path": "lib/python3.12/site-packages/python_json_logger-3.2.1.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "f46f8eb1391bc0f80cf2df9b5ca3e658305166ff5c6f32c88840c4e449c69362",
+        "sha256_in_prefix": "f46f8eb1391bc0f80cf2df9b5ca3e658305166ff5c6f32c88840c4e449c69362",
+        "size_in_bytes": 17
+      },
+      {
+        "_path": "lib/python3.12/site-packages/pythonjsonlogger/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "d9072f7ae21dd740b25df7ff06d27fea45c86ab1d3e68abae971c730589a13cb",
+        "sha256_in_prefix": "d9072f7ae21dd740b25df7ff06d27fea45c86ab1d3e68abae971c730589a13cb",
+        "size_in_bytes": 419
+      },
+      {
+        "_path": "lib/python3.12/site-packages/pythonjsonlogger/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "7edd669e31a307a605377ee1b7400287f6a050674e4d54f44f3ef52dd5fce96e",
+        "sha256_in_prefix": "7edd669e31a307a605377ee1b7400287f6a050674e4d54f44f3ef52dd5fce96e",
+        "size_in_bytes": 433
+      },
+      {
+        "_path": "lib/python3.12/site-packages/pythonjsonlogger/__pycache__/core.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "cfdbc2c961d48acb42e5e2eefb8baf83393c40f4a74498df4401456f0568a497",
+        "sha256_in_prefix": "cfdbc2c961d48acb42e5e2eefb8baf83393c40f4a74498df4401456f0568a497",
+        "size_in_bytes": 13604
+      },
+      {
+        "_path": "lib/python3.12/site-packages/pythonjsonlogger/__pycache__/defaults.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "160cef76a45eed3acaa0ecfe7f92c1d061d93b0560c61ea2d4a566a023553f3a",
+        "sha256_in_prefix": "160cef76a45eed3acaa0ecfe7f92c1d061d93b0560c61ea2d4a566a023553f3a",
+        "size_in_bytes": 8709
+      },
+      {
+        "_path": "lib/python3.12/site-packages/pythonjsonlogger/__pycache__/exception.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "5da20de73038988b8d79e5a640b3770cb752e77878e1d9a0930bdf0f9cf286cd",
+        "sha256_in_prefix": "5da20de73038988b8d79e5a640b3770cb752e77878e1d9a0930bdf0f9cf286cd",
+        "size_in_bytes": 1195
+      },
+      {
+        "_path": "lib/python3.12/site-packages/pythonjsonlogger/__pycache__/json.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "8bbb59f80174b989e8269f60ce418ff4225fbb0060aa29434baa9a6966b5cb20",
+        "sha256_in_prefix": "8bbb59f80174b989e8269f60ce418ff4225fbb0060aa29434baa9a6966b5cb20",
+        "size_in_bytes": 5826
+      },
+      {
+        "_path": "lib/python3.12/site-packages/pythonjsonlogger/__pycache__/jsonlogger.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "6f0197a0535cef4334908ec19c00045e0be35b9a97a8bcab1029a512ede9a340",
+        "sha256_in_prefix": "6f0197a0535cef4334908ec19c00045e0be35b9a97a8bcab1029a512ede9a340",
+        "size_in_bytes": 581
+      },
+      {
+        "_path": "lib/python3.12/site-packages/pythonjsonlogger/__pycache__/msgspec.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "a910e51f248deb8b5b322d1f3ed2c52c10face3a59eafd9a31dadd9c63249322",
+        "sha256_in_prefix": "a910e51f248deb8b5b322d1f3ed2c52c10face3a59eafd9a31dadd9c63249322",
+        "size_in_bytes": 3039
+      },
+      {
+        "_path": "lib/python3.12/site-packages/pythonjsonlogger/__pycache__/orjson.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "0e9e933258fd1d84bf1105f4fcabb7398271e9b4991d3d17d3b4b07a8ca055d7",
+        "sha256_in_prefix": "0e9e933258fd1d84bf1105f4fcabb7398271e9b4991d3d17d3b4b07a8ca055d7",
+        "size_in_bytes": 3289
+      },
+      {
+        "_path": "lib/python3.12/site-packages/pythonjsonlogger/__pycache__/utils.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "e151aa1a37b66831656d7af32e6373cc579bc518e0515cccfed2803fa61e3cf1",
+        "sha256_in_prefix": "e151aa1a37b66831656d7af32e6373cc579bc518e0515cccfed2803fa61e3cf1",
+        "size_in_bytes": 1256
+      },
+      {
+        "_path": "lib/python3.12/site-packages/pythonjsonlogger/core.py",
+        "path_type": "hardlink",
+        "sha256": "ceb7f6bc130f5633efe68ae7c16b364ce8baf056d60e7ba18ff0eb7148ae046d",
+        "sha256_in_prefix": "ceb7f6bc130f5633efe68ae7c16b364ce8baf056d60e7ba18ff0eb7148ae046d",
+        "size_in_bytes": 13328
+      },
+      {
+        "_path": "lib/python3.12/site-packages/pythonjsonlogger/defaults.py",
+        "path_type": "hardlink",
+        "sha256": "f97831223f22a2aec2b2704132c4214d1a54fa529b2eba502c94c2693de21f7f",
+        "sha256_in_prefix": "f97831223f22a2aec2b2704132c4214d1a54fa529b2eba502c94c2693de21f7f",
+        "size_in_bytes": 6577
+      },
+      {
+        "_path": "lib/python3.12/site-packages/pythonjsonlogger/exception.py",
+        "path_type": "hardlink",
+        "sha256": "af70d70e4ed34e1b1c9cc54d3e95516914851d39d8fb281e6ba9e7f85823c2c2",
+        "sha256_in_prefix": "af70d70e4ed34e1b1c9cc54d3e95516914851d39d8fb281e6ba9e7f85823c2c2",
+        "size_in_bytes": 804
+      },
+      {
+        "_path": "lib/python3.12/site-packages/pythonjsonlogger/json.py",
+        "path_type": "hardlink",
+        "sha256": "4ec283ff5f930e369e31483a95afda57321677b181c60027b58eb35b355eee55",
+        "sha256_in_prefix": "4ec283ff5f930e369e31483a95afda57321677b181c60027b58eb35b355eee55",
+        "size_in_bytes": 4165
+      },
+      {
+        "_path": "lib/python3.12/site-packages/pythonjsonlogger/jsonlogger.py",
+        "path_type": "hardlink",
+        "sha256": "b1f96d9181b046146fa9ca53fa4c653df70cb8e7389e011ae16e0d553881a4c2",
+        "sha256_in_prefix": "b1f96d9181b046146fa9ca53fa4c653df70cb8e7389e011ae16e0d553881a4c2",
+        "size_in_bytes": 417
+      },
+      {
+        "_path": "lib/python3.12/site-packages/pythonjsonlogger/msgspec.py",
+        "path_type": "hardlink",
+        "sha256": "339922217e112ebd4fc2f58ac76d4df2c824d392c217298101633871147754d0",
+        "sha256_in_prefix": "339922217e112ebd4fc2f58ac76d4df2c824d392c217298101633871147754d0",
+        "size_in_bytes": 2161
+      },
+      {
+        "_path": "lib/python3.12/site-packages/pythonjsonlogger/orjson.py",
+        "path_type": "hardlink",
+        "sha256": "1d58481e8ec2ad3c23f6966e6735268f5aac5b472835d5660ca483c9c0ecfa93",
+        "sha256_in_prefix": "1d58481e8ec2ad3c23f6966e6735268f5aac5b472835d5660ca483c9c0ecfa93",
+        "size_in_bytes": 2357
+      },
+      {
+        "_path": "lib/python3.12/site-packages/pythonjsonlogger/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e112e9b541d0b92ab32ba0836e281f7fcbaf5908f03cf40cc629163e45783ad0",
+        "sha256_in_prefix": "e112e9b541d0b92ab32ba0836e281f7fcbaf5908f03cf40cc629163e45783ad0",
+        "size_in_bytes": 80
+      },
+      {
+        "_path": "lib/python3.12/site-packages/pythonjsonlogger/utils.py",
+        "path_type": "hardlink",
+        "sha256": "aabd389dbeb54e4570edc2535c0b4b05fc87fcd06fc9852547f99e847efaf913",
+        "sha256_in_prefix": "aabd389dbeb54e4570edc2535c0b4b05fc87fcd06fc9852547f99e847efaf913",
+        "size_in_bytes": 1126
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "b9b9e2fb06688baa27c3f73540196d4c37f87aa05ec260b4e3251e531882e981",
+  "size": 29480,
+  "subdir": "osx-arm64",
+  "timestamp": 1734370280000,
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/python-json-logger-3.2.1-py312hca03da5_0.conda",
+  "version": "3.2.1"
+}

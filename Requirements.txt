@@ -1,0 +1,9 @@
+torch
+torchvision
+effdet
+layoutparser
+pytesseract
+pylibjpeg-libjpeg
+Pillow==9.5.0
+Flask
+dill
